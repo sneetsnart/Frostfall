@@ -1,0 +1,4 @@
+[submodule "mods"]
+	path = mods
+	url = git@github.com:sneetsnart/Frostfall-Mods
+	branch = default
